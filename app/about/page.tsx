@@ -31,6 +31,7 @@ async function productPage() {
       </div>
     </main>
   );
+  //test to add to branches
 }
 
 export default productPage;
